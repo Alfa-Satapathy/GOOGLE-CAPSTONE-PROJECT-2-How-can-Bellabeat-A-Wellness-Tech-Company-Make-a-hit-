@@ -32,6 +32,6 @@ To analyse smart device usage data to gain insight into how consumers use Bellab
 * A summary of analysis from data.
 * Supporting visualizations and key findings.
 
-You can find the detailed analysis in this [medium]([https://dianasatapathy.medium.com/google-capstone-project-2-how-can-bellabeat-a-wellness-tech-company-make-a-hit-ad63bb6209a5](https://medium.com/@satapathy2003/google-capstone-project-2-how-can-bellabeat-a-wellness-tech-company-make-a-hit-24e461fae4c3)https://medium.com/@satapathy2003/google-capstone-project-2-how-can-bellabeat-a-wellness-tech-company-make-a-hit-24e461fae4c3) article.
+You can find the detailed analysis in this [medium]([https://medium.com/@satapathy2003/google-capstone-project-2-how-can-bellabeat-a-wellness-tech-company-make-a-hit-24e461fae4c3]) article.
 
 Happy reading.
